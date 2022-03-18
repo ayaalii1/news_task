@@ -1,0 +1,21 @@
+a{
+    text-decoration: none !important;
+    
+    
+}
+
+nav{ 
+    width: 100%;
+    background-color: rgb(58, 109, 167);
+    position: sticky;
+    top: 0;
+    z-index: 2;
+   padding: 1% 0;
+    
+}
+
+
+
+
+ 
+
